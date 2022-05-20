@@ -1,9 +1,9 @@
 # a=3
-# print('%f' %a) # 3.000000
+# print('%f' %a)   # 3.000000
 # print('%.2f' %a) # 3.00
-# print(float(a)) # 3.0
-# print('%s' %a) # 3
-# print(str(a)) # 3
+# print(float(a))  # 3.0
+# print('%s' %a)   # 3
+# print(str(a))    # 3
 
 # b=4.7
 # print(type(b))  # <class 'float'>
@@ -11,9 +11,9 @@
 # print('%f' %b) # 4.700000
 # print('%.1f' %b) # 4.7
 # print(int(b)) # 4
-# print('%d' %b)  # 4
-# print('%i' %b) # 4
-# print('%s' %b)   # 4.7
+# print('%d'  %b)  # 4
+# print('%i'  %b) # 4
+# print('%s'  %b)   # 4.7
 
 # c='python'
 # print(int(c))
